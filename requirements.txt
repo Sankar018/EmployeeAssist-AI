@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+pymupdf
+chromadb
+python-dotenv
+fastapi
+uvicorn
+pydantic
+streamlit
